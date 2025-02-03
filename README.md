@@ -3,5 +3,5 @@ This repository contains comprehensive notes from Stanford's renowned CS229 Mach
 
 <br>
 
-🤝<h3><b> Acknowledgments</b></h3>
+<h3><b> Acknowledgments</b></h3>
 A special thanks to Dr. Andrew Ng and the Stanford CS229 teaching team for providing such valuable resources in the field of machine learning.
